@@ -8,8 +8,8 @@ Brush up on Forward and Inverse Kinematics (FK & IK) and review our session mate
 
 * **[Forward and Inverse Kinematics Overview](https://zengo.eu/en/blog/forward-kinematics-fk-and-inverz-kinematicsik):** A conceptual breakdown of calculating end-effector positions and joint angles.
 * **[Kinematic Model for Robot Arms](https://zbotic.in/kinematic-model-for-robot-arm-forward-and-inverse-guide/):** A practical guide on applying mathematical kinematic models specifically to robotic manipulator arms.
-* **[Mechatronics Session 1 Materials](https://share.google/FXkbjqtSigW7OCiMw):** Shared drive link containing our first session's notes and diagrams.
-* **[Mechatronics Session 2 Materials](https://share.google/EAZBV3KT8EOLjmaaH):** Shared drive link containing additional session resources and follow-up data.
+* **[Robot Joints Overview](https://share.google/FXkbjqtSigW7OCiMw):** An in-depth look at the various types of mechanical joints used in robotic systems, including their specific mechanics and degrees of freedom.
+* **[Coordinate Transforms Guide](https://share.google/EAZBV3KT8EOLjmaaH):** A comprehensive breakdown of spatial transformations, coordinate frames, and how to accurately map positions and orientations in 3D space.
 
 ---
 
@@ -174,5 +174,5 @@ This guide provides step-by-step instructions to install Docker and run a ROS co
 ---
 ## ⚡ ALL SET
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9be17ef2-fbf3-4b5d-b540-536e87a4cf18" width="450">
+  <img width="360" height="270" alt="Image" src="https://github.com/user-attachments/assets/9ec8a4aa-7720-4135-9811-6d50c1472cb2"/>
 </p>
