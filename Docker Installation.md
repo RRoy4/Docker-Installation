@@ -1,3 +1,17 @@
+# Mechatronics Resources & ROS Docker Setup
+
+Before we jump into configuring our software environment, let's recap the core concepts covered in our recent mechatronics sessions. Understanding the physical mechanics—specifically kinematics—is essential before we start simulating and controlling these systems in ROS. 
+
+## Session Resources & Reading Materials
+
+Brush up on Forward and Inverse Kinematics (FK & IK) and review our session materials using the links below:
+
+* **[Forward and Inverse Kinematics Overview](https://zengo.eu/en/blog/forward-kinematics-fk-and-inverz-kinematicsik):** A conceptual breakdown of calculating end-effector positions and joint angles.
+* **[Kinematic Model for Robot Arms](https://zbotic.in/kinematic-model-for-robot-arm-forward-and-inverse-guide/):** A practical guide on applying mathematical kinematic models specifically to robotic manipulator arms.
+* **[Mechatronics Session 1 Materials](https://share.google/FXkbjqtSigW7OCiMw):** Shared drive link containing our first session's notes and diagrams.
+* **[Mechatronics Session 2 Materials](https://share.google/EAZBV3KT8EOLjmaaH):** Shared drive link containing additional session resources and follow-up data.
+
+---
 
 # Docker Installation and Running ROS Containers 
 
