@@ -4,13 +4,22 @@ Before we jump into configuring our software environment, let's recap the core c
 
 ## Session Resources & Reading Materials
 
-Brush up on Forward and Inverse Kinematics (FK & IK) and review our session materials using the links below:
+If you want to recap what was taught in our recent mechatronics sessions, check out the resources below:
+
+### Session 1 Resources
 
 * **[Forward and Inverse Kinematics Overview](https://zengo.eu/en/blog/forward-kinematics-fk-and-inverz-kinematicsik):** A conceptual breakdown of calculating end-effector positions and joint angles.
 * **[Kinematic Model for Robot Arms](https://zbotic.in/kinematic-model-for-robot-arm-forward-and-inverse-guide/):** A practical guide on applying mathematical kinematic models specifically to robotic manipulator arms.
 * **[Robot Joints Overview](https://share.google/FXkbjqtSigW7OCiMw):** An in-depth look at the various types of mechanical joints used in robotic systems, including their specific mechanics and degrees of freedom.
 * **[Coordinate Transforms Guide](https://share.google/EAZBV3KT8EOLjmaaH):** A comprehensive breakdown of spatial transformations, coordinate frames, and how to accurately map positions and orientations in 3D space.
 
+### Session 2 Resources
+
+* **[LiDAR and Depth Cameras](https://keyirobot.com/blogs/buying-guide/lidar-vs-depth-camera-choosing-the-right-sensor-for-robot-vision?srsltid=AfmBOopitbUBj-2GwgmEb7aafMyJmj4tFnebYLxocU8p1gJUNO-ocSf5):** A practical comparison of LiDAR and depth cameras and how to select the right option for robot vision.
+* **[Kalman Filter Explained (Video)](https://youtu.be/IFeCIbljreY?si=9elt-_WflJZyb685):** A visually intuitive explanation of the Kalman Filter, showing how predictions and noisy measurements are combined to estimate the true state of a system.
+* **[Sensor Fusion Overview (Video)](https://youtu.be/RZd6XDx5VXo?si=xDutetasrrYQoYR3):** An animated overview of sensor fusion that demonstrates how data from multiple sensors is integrated for better accuracy.
+* **[PID Control Introduction (Video)](https://youtu.be/wkfEZmsQqiA?si=G7DXJBXLER527_-a):** A clear visual introduction to PID control that explains how proportional, integral, and derivative actions work together.
+* **[Comprehensive Guide to Motors](https://www.iqsdirectory.com/articles/electric-motor.html):** A detailed guide to electric motors covering their operating principles, different types, and the factors influencing their selection for various applications.
 ---
 
 # Docker Installation and Running ROS Containers 
